@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Manrope:wght@200..800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card {
+    background-image: url('/img-t.png');
+    background-size: cover; /* Cobrir toda a tela */
+    background-repeat: no-repeat; /* Não repetir */
+    background-position: center; /* Centralizar a imagem */
+}
+
+
+.textBox {
+    display: flex;
+    flex-direction: column;
+    font-family: "Manrope", sans-serif;
+    font-weight: 200;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    color: #fff;
+ 
+}
+
+.textBox p {
+    padding: 0px 80px;
+    padding-top: 24px;
+}
+
+
+.formBox{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+form{
+    display: flex;
+}
+
+.formInput{
+
+    
+}
+
+.formInput input {
+    width: 500px;
+    height: 25px;
+    padding-left: 10px;
+}
+
+.linkBox{
+    margin-top: 20px;
+    font-family: "Manrope", sans-serif;
+    font-size: 18px;
+}
+
+.linkBox a {
+    color: #0082f2;
+}
+
+.linkBox button {
+    margin-left: 10px;
+}
+
+
+
+.btn-send {
+    margin-left: 2px;
+    width: 100px;
+    font-family: "Manrope", sans-serif;
+    font-weight: 700;
+    background-color: #0082f2;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    border-radius: 5%;
+}
+
+.btn-copie {
+    font-family: "Manrope", sans-serif;
+    font-weight: 700;
+    background-color: #0082f2;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    border-radius: 5%;
+    width: 100px;
+    height: 24px;
+}
+
+
+.footerBox {
+    font-family: "Manrope",  sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 17%;
+    background-color: #0082f2;
+    color: #fff;
+
+}
+
+.social-icons{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+.footerText p{
+    width: 800px;
+}
+
+.footerbox2{
+    
+}
+ul li {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    padding-bottom: 2px;
+    
+
+}
+
+a{
+    text-decoration: none;
+    padding-left: 10px;
+    color: #fff;
+}
