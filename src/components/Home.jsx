@@ -78,9 +78,9 @@ function Home() {
                 <div>
                         
                         <ul className="social-icons">
-                            <li><FaGithub style={{ height:"40px", width:"40px"}}/> <a href="https://github.com/seuusuario" target="_blank" rel="noopener noreferrer"> GitHub</a></li>
-                            <li><FaLinkedin style={{ height:"40px", width:"40px"}}/> <a href="https://linkedin.com/in/seuperfil" target="_blank" rel="noopener noreferrer"> LinkedIn</a></li>
-                            <li> <FaInstagram style={{ height:"40px", width:"40px"}}/><a href="https://twitter.com/seuperfil" target="_blank" rel="noopener noreferrer"> Instagram</a></li>
+                            <li><FaGithub style={{ height:"40px", width:"40px"}}/> <a href="https://github.com/rasta-slaine" target="_blank" rel="noopener noreferrer"> GitHub</a></li>
+                            <li><FaLinkedin style={{ height:"40px", width:"40px"}}/> <a href="https://www.linkedin.com/in/nathan-das-chagas-santos-862179185/" target="_blank" rel="noopener noreferrer"> LinkedIn</a></li>
+                            <li> <FaInstagram style={{ height:"40px", width:"40px"}}/><a href="https://www.instagram.com/nathanslaine/" target="_blank" rel="noopener noreferrer"> Instagram</a></li>
                             {/* Adicione outros links para suas redes sociais aqui */}
                         </ul>
                  </div>
