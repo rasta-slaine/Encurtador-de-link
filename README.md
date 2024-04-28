@@ -23,7 +23,7 @@ O Encurtador de Link é uma aplicação simples que permite aos usuários encurt
 
 ## Autor
 
-Este projeto foi desenvolvido por [Nathan das chagas santos](https://github.com/seuusuario). 
+Este projeto foi desenvolvido por [Nathan das chagas santos](https://github.com/rasta-slaine). 
 
 ## Contribuição
 
